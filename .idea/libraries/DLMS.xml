@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DLMS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/DLMS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
